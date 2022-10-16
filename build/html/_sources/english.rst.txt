@@ -18,24 +18,24 @@ The process of displaying the registration page in the Personal Account and the 
  
 3. Click the menu at the top left.
 
-.. image:: D:/RoboMarkets/2.png
+.. image:: D:/RoboMarkets/2.1.png
   :width: 700
 
 
-4. Enter personal data,select a country.
+4. Enter personal data, select a country.
 
-.. image:: D:/RoboMarkets/7.png
-  :width: 300
+.. image:: D:/RoboMarkets/1.1.png
+  :width: 700
 
 5. Check the boxes.
 
-.. image:: D:/RoboMarkets/6.png
+.. image:: D:/RoboMarkets/6.1.png
   :width: 300
 
 
 6. If everything is entered correctly, a Personal Account will be opened.
 
-.. image:: D:/RoboMarkets/8.png
+.. image:: D:/RoboMarkets/4.1.png
   :width: 300
 
 
@@ -44,8 +44,16 @@ The process of displaying the registration page in the Personal Account and the 
  
 7. If the personal data is filled in with an error, then a corresponding message  appears at the top.
 
-.. image:: D:/RoboMarkets/9.png
+.. image:: D:/RoboMarkets/10.png
   :width: 300
+
+ 
+
+.. seealso:: `Contact support`_
+
+.. _`Contact support`: https://www.robomarkets.com/about/company/contacts/
+
+
 
 
 
