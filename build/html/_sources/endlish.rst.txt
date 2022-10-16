@@ -4,40 +4,39 @@
    contain the root `toctree` directive.
 
 ===============================================================
-Процесс отображения пользователю страницы регистрации в ЛК и Платформе
+The process of displaying the registration page in the Personal Account and the Platform to the user
 ===============================================================
-
-
-
-1. Открыть  `R StocksTrader`_.
+ 
+ 
+1. Open  `R StocksTrader`_.
 
 .. _`R StocksTrader`: https://www.robomarkets.com/forex-trading/platforms/stock-market/
 
 
-2. Нажать на GetStarted.
+2. Click GetStarted.
 
 .. image:: D:/RoboMarkets/1.png
   :width: 700
 
   
-3. Нажать меню слева наверху.
+3. Click the menu at the top left.
 
 .. image:: D:/RoboMarkets/2.png
   :width: 700
 
 
-4. Ввести персональные данные,выбрать страну.
+4. Enter personal data,select a country.
 
 .. image:: D:/RoboMarkets/7.png
   :width: 300
 
-5. Проставить галочки.
+5. Check the boxes.
 
 .. image:: D:/RoboMarkets/6.png
   :width: 300
 
 
-6. Если все введено корректно,то будет открыт Личный Кабинет.
+6. If everything is entered correctly, a Personal Account will be opened.
 
 .. image:: D:/RoboMarkets/8.png
   :width: 300
@@ -46,27 +45,14 @@
 .. image:: D:/RoboMarkets/5.png
   :width: 1000
  
-7. Если персональные данные были заполнены с ошибкой,то появится соответсвующее сообщение наверху.
+7. If the personal data is filled in with an error, then a corresponding message  appears at the top.
 
 .. image:: D:/RoboMarkets/9.png
   :width: 300
 
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
-   english
+.. seealso:: Блок с дополнительной информацией.
 
-   :ref:`english version <english>`
-
-
-
-
-
-
-
-
-
-
+**** https://github.com/YBkhrv/Documentation
