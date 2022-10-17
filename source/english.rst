@@ -39,7 +39,7 @@ The process of displaying the registration page in the Personal Account and the 
   :width: 300
 
 
-.. image:: D:/RoboMarkets/5.png
+.. image:: D:/RoboMarkets/Screenshot_4.png
   :width: 1000
  
 7. If the personal data is filled in with an error, then a corresponding message  appears at the top.
